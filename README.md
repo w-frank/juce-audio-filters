@@ -1,9 +1,8 @@
 # JUCE Audio Filters
 
-Collection of audio filter examples using the JUCE DSP module. Built using the [JUCE](https://github.com/juce-framework/JUCE) 
+Collection of digital audio filters using the JUCE DSP module. Built using the [JUCE](https://github.com/juce-framework/JUCE) 
 audio application framework.
 
-Includes:
 * Finite impulse response (FIR) filter (lowpass, cutoff control)
 * Infinite impulse reponse (IIR) filter (lowpass, cutoff/resonance control)
 * State variable (SV) filter (lowpass/bandpass/highpass, cutoff/resonance control)
