@@ -1,6 +1,6 @@
 # JUCE Audio Filters
 
-Collection of digital audio filters using the JUCE DSP module. Built using the [JUCE](https://github.com/juce-framework/JUCE) 
+Collection of digital audio filter plugins using the JUCE DSP module. Built using the [JUCE](https://github.com/juce-framework/JUCE) 
 audio application framework.
 
 * Finite impulse response (FIR) filter (lowpass, cutoff control)
@@ -17,10 +17,4 @@ Based on the excellent tutorials by [The Audio Programmer](https://github.com/Th
 ```bash
 cd <filter_type>/Builds/LinuxMakefile
 make
-```
-
-## Run
-```bash
-cd <filter_type>/Builds/LinuxMakefile/build
-./<filter_type>
 ```
